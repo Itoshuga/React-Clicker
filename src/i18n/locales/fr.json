@@ -1,0 +1,84 @@
+{
+  "header": {
+    "title": "Clicker Game",
+    "points": "Points",
+    "perSecond": "/s"
+  },
+  "shop": {
+    "title": "Boutique",
+    "tabs": {
+      "upgrades": "Améliorations",
+      "multipliers": "Multiplicateurs"
+    },
+    "descriptions": {
+      "pps": "Améliorations qui génèrent des points automatiquement",
+      "multiplier": "Multiplicateurs qui augmentent les points gagnés par clic"
+    },
+    "owned": "Possédés",
+    "pps": "PPS",
+    "multiplier": "Multiplicateur",
+    "alreadyOwned": "Déjà acheté",
+    "noUpgrades": "Aucune amélioration disponible dans cette catégorie"
+  },
+  "upgrades": {
+    "concreteBlock": {
+      "name": "Bloc de Béton",
+      "description": "Un bloc massif qui écrase automatiquement"
+    },
+    "steelBeam": {
+      "name": "Poutre en Acier",
+      "description": "Une structure industrielle implacable"
+    },
+    "brutalistTower": {
+      "name": "Tour Brutaliste",
+      "description": "Un monument à la productivité"
+    },
+    "concreteFactory": {
+      "name": "Usine de Béton",
+      "description": "Une machine industrielle sans compromis"
+    },
+    "rawConcrete": {
+      "name": "Béton Brut",
+      "description": "Renforce la puissance de vos clics"
+    },
+    "exposedAggregate": {
+      "name": "Agrégats Exposés",
+      "description": "Révèle la force brutale de vos clics"
+    },
+    "boardFormed": {
+      "name": "Coffrage Bois",
+      "description": "Imprime une force primitive dans vos clics"
+    },
+    "monolithicMass": {
+      "name": "Masse Monolithique",
+      "description": "Une puissance architecturale absolue"
+    }
+  },
+  "settings": {
+    "title": "Options",
+    "language": {
+      "title": "Langue",
+      "description": "Choisissez votre langue préférée"
+    },
+    "promoCode": {
+      "title": "Code Promo",
+      "description": "Entrez un code promotionnel pour recevoir une récompense",
+      "placeholder": "Entrez votre code",
+      "submit": "Valider",
+      "error": "Veuillez entrer un code",
+      "success": "Code validé avec succès !"
+    },
+    "reset": {
+      "title": "Réinitialiser le jeu",
+      "description": "Cette action effacera toute votre progression. Cette action est irréversible.",
+      "button": "Réinitialiser",
+      "confirm": "Êtes-vous sûr de vouloir réinitialiser le jeu ? Cette action est irréversible."
+    }
+  },
+  "stats": {
+    "title": "Statistiques",
+    "playTime": "Temps de jeu",
+    "totalClicks": "Clics totaux",
+    "multiplier": "Multiplicateur"
+  }
+}

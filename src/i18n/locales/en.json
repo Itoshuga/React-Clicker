@@ -1,0 +1,84 @@
+{
+  "header": {
+    "title": "Clicker Game",
+    "points": "Points",
+    "perSecond": "/s"
+  },
+  "shop": {
+    "title": "Shop",
+    "tabs": {
+      "upgrades": "Upgrades",
+      "multipliers": "Multipliers"
+    },
+    "descriptions": {
+      "pps": "Upgrades that automatically generate points",
+      "multiplier": "Multipliers that increase points earned per click"
+    },
+    "owned": "Owned",
+    "pps": "PPS",
+    "multiplier": "Multiplier",
+    "alreadyOwned": "Already owned",
+    "noUpgrades": "No upgrades available in this category"
+  },
+  "upgrades": {
+    "concreteBlock": {
+      "name": "Concrete Block",
+      "description": "A massive block that crushes automatically"
+    },
+    "steelBeam": {
+      "name": "Steel Beam",
+      "description": "A relentless industrial structure"
+    },
+    "brutalistTower": {
+      "name": "Brutalist Tower",
+      "description": "A monument to productivity"
+    },
+    "concreteFactory": {
+      "name": "Concrete Factory",
+      "description": "An uncompromising industrial machine"
+    },
+    "rawConcrete": {
+      "name": "Raw Concrete",
+      "description": "Reinforces the power of your clicks"
+    },
+    "exposedAggregate": {
+      "name": "Exposed Aggregate",
+      "description": "Reveals the brutal force of your clicks"
+    },
+    "boardFormed": {
+      "name": "Board Formed",
+      "description": "Imprints a primitive force in your clicks"
+    },
+    "monolithicMass": {
+      "name": "Monolithic Mass",
+      "description": "An absolute architectural power"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": {
+      "title": "Language",
+      "description": "Choose your preferred language"
+    },
+    "promoCode": {
+      "title": "Promo Code",
+      "description": "Enter a promotional code to receive a reward",
+      "placeholder": "Enter your code",
+      "submit": "Submit",
+      "error": "Please enter a code",
+      "success": "Code successfully redeemed!"
+    },
+    "reset": {
+      "title": "Reset Game",
+      "description": "This action will erase all your progress. This action is irreversible.",
+      "button": "Reset",
+      "confirm": "Are you sure you want to reset the game? This action is irreversible."
+    }
+  },
+  "stats": {
+    "title": "Statistics",
+    "playTime": "Play Time",
+    "totalClicks": "Total Clicks",
+    "multiplier": "Multiplier"
+  }
+}
