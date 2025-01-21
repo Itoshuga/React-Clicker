@@ -35,7 +35,7 @@ Un jeu de clicker minimaliste avec une esthétique brutaliste, développé avec 
 1. Clonez le dépôt :
 ```bash
 git clone [url-du-repo]
-cd brutalist-clicker
+cd react-clicker
 ```
 
 2. Installez les dépendances :
